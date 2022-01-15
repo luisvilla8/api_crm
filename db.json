@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Luis Villa s",
+      "empresa": "Villa",
+      "email": "luis888lfvl@gmail.com",
+      "telefono": "12121",
+      "notas": "sadsaddsa",
+      "id": 2
+    },
+    {
+      "nombre": "Pedro",
+      "empresa": "PedroTech",
+      "email": "luis444lfvl@gmail.com",
+      "telefono": "3333",
+      "notas": "ttttttt",
+      "id": 4
+    }
+  ]
+}
